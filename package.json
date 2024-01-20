@@ -1,0 +1,21 @@
+{
+  "name": "com.maneuver.localdata",
+  "version": "1.0.0",
+  "displayName": "Local Data",
+  "description": "Framework  of save/load local data",
+  "unity": "2022.3",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+ "keywords": [
+    "local data",
+    "save local",
+    "load local"
+  ],
+  "author": {
+    "name": "Unity",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}

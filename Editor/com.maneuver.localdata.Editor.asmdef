@@ -1,0 +1,18 @@
+{
+    "name": "com.maneuver.localdata.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:edd3470218231d148a89633aec4b70a1"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
